@@ -21,9 +21,3 @@ An interactive Etch-a-Sketch web application built with HTML, CSS, and JavaScrip
 - By default, a 16x16 grid is generated.
 - Hovering over a square changes its color.
 - Clicking the Resize button prompts the user to enter a new grid size (up to 100), which then updates the board.
-
-## Future Improvements
-
-- Add color palette for custom drawing
-- Eraser and reset button
-- Save drawing as an image
