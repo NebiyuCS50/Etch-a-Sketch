@@ -27,7 +27,7 @@ box.addEventListener("mouseenter", ()=>{
 btn.addEventListener("click", ()=>{
     container.textContent="";
     const width = 960;
-    let size= prompt("Please Enter A Size <100");
+    let size= prompt("Please Enter A Size <100", 64);
     const outcome = width/size;
     const len= size*size;
     for(let j=1; j<=len;j++){
